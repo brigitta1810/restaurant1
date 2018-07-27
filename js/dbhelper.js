@@ -121,7 +121,7 @@ class DBHelper {
     });
   }
 
-  /**
+  /*
    * Fetch all cuisines with proper error handling.
    */
   static fetchCuisines(callback) {
